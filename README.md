@@ -1,4 +1,4 @@
-# powerbi-report
+# Power_bi - Sales_Analysis_Report
 Interactive Power BI report for analyzing sales, profit trends, and category performance. Built using Power BI Desktop with DAX and Power Query.
 # Power BI Report: Sales_Analysis_Report
 
