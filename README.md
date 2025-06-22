@@ -1,8 +1,8 @@
 # powerbi-report
-Power BI report analyzing sales performance metrics.
-# Power BI Report: First Report
+Interactive Power BI report for analyzing sales, profit trends, and category performance. Built using Power BI Desktop with DAX and Power Query.
+# Power BI Report: Sales_Analysis_Report
 
-This repository contains a Power BI Desktop (`.pbix`) report titled **First Report**.  
+This repository contains a Power BI Desktop (`.pbix`) report titled **Sales_Analysis_Report**  
 The report provides interactive visual insights into business data, helping identify trends, patterns, and actionable metrics.
 
 ## 📈 Report Overview
